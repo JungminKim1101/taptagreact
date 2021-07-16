@@ -1,0 +1,68 @@
+{
+  "name": "taptag",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:5000",
+  "dependencies": {
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.1.9",
+    "bootstrap": "^5.0.2",
+    "browserslist": "^4.16.6",
+    "css-what": "^5.0.1",
+    "font-awesome": "^4.7.0",
+    "glob-parent": "^6.0.0",
+    "npm": "^7.19.1",
+    "npm-check-updates": "github:raineorshine/npm-check-updates",
+    "react": "^17.0.2",
+    "react-animated-slider": "^2.0.0",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.2",
+    "react-fontawesome": "^1.7.1",
+    "react-icons": "^4.2.0",
+    "react-laag": "^2.0.3",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-scroll-to-top": "^1.1.2",
+    "react-scripts": "^4.0.3",
+    "react-scroll-to-top": "^1.0.5",
+    "react-simple-image-slider": "^2.1.2",
+    "react-tiny-popover": "^6.0.5",
+    "reactstrap": "^8.9.0",
+    "rsuite": "^4.10.2",
+    "semantic-ui-react": "^2.0.3",
+    "styled-components": "^5.3.0",
+    "uuid": "^8.3.2",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
